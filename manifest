@@ -1,0 +1,13 @@
+# Channel details
+title=lns
+
+# Channel properties
+major_version=1
+minor_version=0
+build_version=001
+
+
+# UI resolution
+ui_resolutions=hd
+
+confirm_partner_button=1
